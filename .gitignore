@@ -1,0 +1,17 @@
+.idea
+__pycache__
+*.pyc
+env/
+venv/
+*.sqlite3
+.DS_Store
+*.log
+*.pot
+*.mo
+staticfiles/
+media/
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.vscode/
